@@ -1,0 +1,65 @@
+{
+  "globalStyle": {},
+  "pages": [
+    {
+      "path": "pages/jihua/jihua",
+      "style": {}
+    },
+    {
+      "path": "pages/ditujiemian/ditujiemian",
+      "style": {}
+    },
+    {
+      "path": "pages/gerenzhuye/gerenzhuye",
+      "style": {}
+    },
+    {
+      "path": "pages/huangheloujingqu/huangheloujingqu",
+      "style": {}
+    },
+    {
+      "path": "pages/yikatonggonglve/yikatonggonglve",
+      "style": {}
+    },
+    {
+      "path": "pages/zhuye/zhuye",
+      "style": {}
+    },
+    {
+      "path": "pages/dengluyemian/dengluyemian",
+      "style": {}
+    },
+    {
+      "path": "pages/AIjiemian/AIjiemian",
+      "style": {}
+    },
+    {
+      "path": "pages/NFC/NFC",
+      "style": {}
+    },
+    {
+      "path": "pages/VRjiemian/VRjiemian",
+      "style": {}
+    },
+    {
+      "path": "pages/Wallet/Wallet",
+      "style": {}
+    },
+    {
+      "path": "pages/Page_group_jinrufengmian/Page_group_jinrufengmian",
+      "style": {}
+    },
+    {
+      "path": "pages/Frame_92973208/Frame_92973208",
+      "style": {}
+    },
+    {
+      "path": "pages/zhifu/zhifu",
+      "style": {}
+    },
+    {
+      "path": "pages/jinrufengmian/jinrufengmian",
+      "style": {}
+    }
+  ]
+}
