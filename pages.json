@@ -1,0 +1,53 @@
+{
+  "globalStyle": {"navigationStyle":"custom"},
+  "pages": [
+    {
+      "path": "pages/dengluyemian/dengluyemian",
+      "style": {}
+    },
+    {
+      "path": "pages/zhifu/zhifu",
+      "style": {}
+    },
+    {
+      "path": "pages/AIjiemian/AIjiemian",
+      "style": {}
+    },
+    {
+      "path": "pages/jihua/jihua",
+      "style": {}
+    },
+    {
+      "path": "pages/huangheloujingqu/huangheloujingqu",
+      "style": {}
+    },
+    {
+      "path": "pages/yikatonggonglve/yikatonggonglve",
+      "style": {}
+    },
+    {
+      "path": "pages/AIjiemian_1/AIjiemian_1",
+      "style": {}
+    },
+    {
+      "path": "pages/NFC/NFC",
+      "style": {}
+    },
+    {
+      "path": "pages/VRjiemian/VRjiemian",
+      "style": {}
+    },
+    {
+      "path": "pages/zhuye/zhuye",
+      "style": {}
+    },
+    {
+      "path": "pages/ditujiemian/ditujiemian",
+      "style": {}
+    },
+    {
+      "path": "pages/gerenzhuye/gerenzhuye",
+      "style": {}
+    }
+  ]
+}
